@@ -1,0 +1,8 @@
+#ifndef RESOURCE_H_INCLUDED
+#define RESOURCE_H_INCLUDED
+
+#define IDR_APP_ICON 201
+#define IDR_MANIFEST  1
+#define RT_MANIFEST  24
+
+#endif // RESOURCE_H_INCLUDED
